@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6d1fd56286be4deab5db43a1e39877b9",
+    "title": "Groceries",
+    "amount": 1000.0,
+    "category": "Food",
+    "date": "2026-10-30 22:52"
+  },
+  {
+    "id": "47fab1a3f5894083821f965cdfed2e69",
+    "title": "Clothing",
+    "amount": 5000.0,
+    "category": "Shopping",
+    "date": "2026-10-30 22:53"
+  }
+]
